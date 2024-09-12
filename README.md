@@ -12,11 +12,11 @@
 
 Стартовое меню:
 
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/File_generation_bot/main/Start_menu.png)
 
 После выбора файла:
 
-![image]()
+![image](https://raw.githubusercontent.com/QA-SirFourALot/File_generation_bot/main/e2e.png)
 
 ## 💻 Технологии
 
